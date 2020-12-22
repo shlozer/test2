@@ -1,2 +1,2 @@
 # test2
-test repo privé
+test repo privé acces limité
