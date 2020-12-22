@@ -2,7 +2,7 @@
 
 class Operation
 {
-
+    // premiere modif github
     private $_lien = DBPATH;
     private $_user = DBUSER;
     private $_pass = DBPASS;
